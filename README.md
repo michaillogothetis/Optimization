@@ -1,4 +1,5 @@
-📋 Project Description
+Project Description
+
 This project involves the optimization of a branched pipe system connecting four reservoirs (A, B, C, D) using Evolutionary Algorithms (EA). The optimization was performed using the EASY software, with a custom Fortran 90 code for hydraulic parameter calculations.
 
  Optimization Objectives
@@ -33,7 +34,8 @@ All flow rates > 0
 
 Flow equality |Qc - Qb| ≈ |Qc - Qd| ≤ ε
 
- Results
+Results
+
 🔹 Single-Objective Optimization
 Optimal Solution:
 
